@@ -1,4 +1,4 @@
-# Ruby On Rails - Kert Tamm tunnitöö
+# Ruby On Rails - Kert Tamm 3.tunnitöö
 
 <img src="naide.png" width="300" title="projektipilt1"><img src="naide2.png" width="300" title="projektipilt2">
 
