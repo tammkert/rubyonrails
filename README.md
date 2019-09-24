@@ -1,5 +1,7 @@
 # Ruby On Rails - Kert Tamm tunnitöö
 
+<img src="naide.png" width="300" title="projektipilt1"><img src="naide2.png" width="300" title="projektipilt2">
+
 Githubi demo link: https://github.com/KristjanVeensalu/Ruby-On-RailsDEMO
 
 https://rubyinstaller.org/downloads/
