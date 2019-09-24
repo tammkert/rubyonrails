@@ -3,6 +3,7 @@
 Githubi demo link: https://github.com/KristjanVeensalu/Ruby-On-RailsDEMO
 
 https://rubyinstaller.org/downloads/
+
 **installeerida devkitiga versioon**
 
 siis avades installida kõik asjad mida pakud ja ainult enter ja enter
